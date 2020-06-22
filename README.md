@@ -20,5 +20,10 @@ yarn build
 yarn lint
 ```
 
+### Lints and fixes files
+```
+yarn run electron:serve
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,6 +1,8 @@
 <template>
   <div class="hello">
     <h1>FaSAC</h1>
+    <h2>Coding By Chonnaphat Visetchock</h2>
+    <h2>Raspberry pi Ver .1</h2>
   </div>
 </template>
 
